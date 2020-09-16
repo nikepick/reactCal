@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactCal/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/reactCal/static/js/main.a8572d5f.chunk.js",
+    "main.js.map": "/reactCal/static/js/main.a8572d5f.chunk.js.map",
+    "runtime-main.js": "/reactCal/static/js/runtime-main.fbf80413.js",
+    "runtime-main.js.map": "/reactCal/static/js/runtime-main.fbf80413.js.map",
+    "static/js/2.823bbf86.chunk.js": "/reactCal/static/js/2.823bbf86.chunk.js",
+    "static/js/2.823bbf86.chunk.js.map": "/reactCal/static/js/2.823bbf86.chunk.js.map",
+    "index.html": "/reactCal/index.html",
+    "precache-manifest.0fad08dba290adba2c827847dad2aff6.js": "/reactCal/precache-manifest.0fad08dba290adba2c827847dad2aff6.js",
+    "service-worker.js": "/reactCal/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/reactCal/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.823bbf86.chunk.js.LICENSE.txt": "/reactCal/static/js/2.823bbf86.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fbf80413.js",
+    "static/js/2.823bbf86.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.a8572d5f.chunk.js"
+  ]
+}
